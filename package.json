@@ -3,9 +3,7 @@
   "version": "1.0.4",
   "description": "A library to help you fix image ios14",
   "main": "index.js",
-  "bin": {
-    "bin": "./bin/dev.sh"
-  },
+  "bin": "./bin/fixim.sh",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
