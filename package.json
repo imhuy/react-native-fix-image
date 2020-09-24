@@ -1,0 +1,28 @@
+{
+  "name": "react-native-fix-image",
+  "version": "1.0.0",
+  "description": "A library to help you fix image ios14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huylvdev/react-native-fix-image.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios14",
+    "image",
+    "images"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huylvdev/react-native-fix-image.git"
+  },
+  "homepage": "https://github.com/huylvdev/react-native-fix-image.git#readme",
+  "peerDependencies": {
+    "react-native": "<0.63.2"
+  }
+}
