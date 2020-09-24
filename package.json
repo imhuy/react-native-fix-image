@@ -1,6 +1,6 @@
 {
   "name": "react-native-fix-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to help you fix image ios14",
   "main": "index.js",
   "bin": {
