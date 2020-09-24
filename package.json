@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A library to help you fix image ios14",
   "main": "index.js",
+
+  "bin": {
+    "bin": "./bin/dev.sh"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +20,7 @@
     "image",
     "images"
   ],
-  "author": "",
+  "author": "Huy Lưu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/huylvdev/react-native-fix-image.git"
