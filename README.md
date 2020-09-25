@@ -3,4 +3,4 @@
 ##  Usage
 1. `npm install --save react-native-fix-image`
 2. `npx react-native-fix-image`
-
+3. `rebuild project`
